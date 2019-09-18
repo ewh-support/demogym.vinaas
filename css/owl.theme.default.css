@@ -22,7 +22,7 @@
   text-align: center;
   -webkit-tap-highlight-color: transparent; }
 .owl-theme .owl-nav [class*='owl-'] {
-    color: #7aa83e;
+    color: #c00513;
     font-size: 40px;
     margin: -30px;
     padding: 0px -3px;
@@ -57,17 +57,17 @@
       width: 12px;
       height: 12px;
       margin: 5px 7px;
-      background: #82b53f;
+      background: #c00513;
       display: block;
       -webkit-backface-visibility: visible;
       transition: opacity 200ms ease;
 		border-radius: 30px;
-		border:2px solid #82b53f;
+		border:2px solid #c00513;
     
      }
     .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
       background: #fff;
-	  border:2px solid #82b53f;
+	  border:2px solid #c00513;
 	  width: 12px;
       height: 12px;
     }
