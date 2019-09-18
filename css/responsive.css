@@ -71,7 +71,7 @@
 }
  .service_info h5 {
  font-size: 18px;
- color: #82b53f;
+ color: #c00513;
 }
  .service_info p {
  font-size: 15px;
@@ -273,11 +273,11 @@ section.about_inner_page {
 /*.main-menu .navbar-header .navbar-toggle {
         display: block;
         z-index: 7;
-        border: 1px solid #82b53f;
+        border: 1px solid #c00513;
         margin: 10px 0;
     }*/
 .main-menu .navbar-header .navbar-toggle .icon-bar {
-	background: #82b53f;
+	background: #c00513;
 }
 .main-header .header-lower .right-cont .search-btn {
 	right: 0;
@@ -1097,7 +1097,7 @@ section.about_inner_page {
 	margin-bottom: 30px;
 }
 .owl-theme .owl-nav [class*='owl-'] {
-	color: #7aa83e;
+	color: #c00513;
 	font-size: 40px;
 	margin: -10px !important;
 	padding: 0px -3px;
