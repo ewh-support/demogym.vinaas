@@ -1,0 +1,132 @@
+
+div.scrollmenu a {
+    width: 50%;
+    padding: 25px 24px 25px 0;
+    text-align: center;
+}
+
+.btn {
+    display: grid;
+}
+
+.btn-membership {
+    width: 100%;
+    margin-top: 7px;
+}
+
+.btn-trial {
+   
+    width: 100%;
+    text-align: center;
+}
+.row-card {
+    background: url(images/bg_membership1.png) top no-repeat;
+    padding: 55px 0 55px;
+}
+.workplace2-content {
+    padding: 20px 50px 20px 0;
+    text-align: justify;
+}
+
+.background-worlplace2 {
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    width: 50%;
+    height: 100%;
+    background: url(images/workplace/workplace2.png) no-repeat;
+}
+
+.divRegisterWork {
+    margin: 0 auto;
+    width: 880px;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 30px 100px 30px 100px;
+}
+
+    .divRegisterWork p {
+        font-size: 20px;
+        color: #c00413;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+
+    .divRegisterWork input, .divRegisterWork textarea {
+        width: 100%;
+        background: #fff;
+        outline: none;
+        border-radius: 22px;
+        font-size: 20px;
+        text-align: center;
+        font-weight: bold;
+    }
+
+.register {
+    margin-top: -430px;
+}
+
+.header_register {
+    font-size: 60px;
+    font-weight: 800;
+    color: #c00413
+}
+.tick {
+    margin-top: -3px;
+    margin-right: 5px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    #divWorkplace1{
+        text-align:center;
+    } .background-right {
+        background: none;
+    }
+
+    .workplace1 {
+        margin: 0 20px 20px 20px;
+    }
+
+    .workplace-img1 {
+        padding: 20px;
+    }
+
+    .work-place {
+        padding: 0;
+    }
+
+    .workplace2-content {
+        padding: 15px;
+    }
+
+    .background-worlplace2 {
+        background: none;
+    }
+
+    .divRegisterWork {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .register {
+        margin-top: -150px;
+    }
+
+    .header_register {
+        font-size: 30px;
+        font-weight: 800;
+        color: #fff
+    }
+    .card-name {
+        margin: 10px 0 5px;
+    }
+    .second-menu{
+        padding:0;
+    }
+    div.scrollmenu a:first-child {
+        padding: 15px 55px 15px 0;
+        width: 210px;
+    }
+    .membership-detail {
+        text-align: left;
+    }
+}
