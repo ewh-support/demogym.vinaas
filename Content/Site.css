@@ -386,7 +386,7 @@ div.scrollmenu {
         }
 
         div.scrollmenu a.active {
-            color: #000;
+            color: #c00513;
         }
 
         div.scrollmenu a:first-child {
@@ -1125,7 +1125,7 @@ div.scrollmenu::-webkit-scrollbar {
 }
 
 .active .menu-line {
-    background: #333;
+    background: #c00513;
 }
 
 .menufooter {
